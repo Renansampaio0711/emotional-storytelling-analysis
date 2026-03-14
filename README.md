@@ -61,12 +61,12 @@ The analysis includes:
 - Exploration of storytelling metrics and audience responses
 
 ---
+## Exploratory analysis
+![Storytelling vs Attachment](figures/Distribution by gende.png)
 
 ## Main Insight
 
-The results show a **strong positive correlation between emotional storytelling and audience attachment**.
-
-This suggests that films that strongly portray emotions and character relationships tend to create **deeper emotional connections with viewers**.
+We can see that 
 
 ---
 
