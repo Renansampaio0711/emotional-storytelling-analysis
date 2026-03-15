@@ -70,7 +70,7 @@ Furthermore, we can see that the average of Emotional Storytelling Score is grea
 ## Main Insight
 
 Looking at the graph below, we can conclude that there is a strong positive correlation between Emotional Storytelling Score and Audience Attachment Score.
-![Emotional Storytelling vs Audience Attachment](Figures/Emotional_Storytelling_vs_Audience_Attachment.png)
+![Emotional Storytelling vs Audience Attachment](Figures/Emotional_Storytellin_vs_Audience_Attachment.png)
 
 This observation is confirmed when we calculate the correlation between the scores.
 ![Correlation](Figures/correlation_table.png)
