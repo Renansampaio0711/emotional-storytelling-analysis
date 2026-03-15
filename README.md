@@ -80,12 +80,18 @@ As we can see, there is a strong relationship (approximately 0.74) between emoti
 Furthermore, we can observe the questions that are most closely related to each score:
 ![Correlation Storytelling](Figures/correlation_storytelling_table.png)
 ![Correlation Attachment](Figures/correlation_attachment_table.png)
-At last, we can see that for mans the correlation is even stronger:
+At last, we can see that for men the correlation is even stronger:
 ![Correlation Man](Figures/correlation_Male.png)
 ![Correlation Man](Figures/correlation_Female.png)
 ![Correlation Man](Figures/correlation_prefer_not_to_say.png)
 
+## Conclusion
 
+The analysis suggests a strong positive relationship between emotional storytelling and audience attachment.
+
+Movies that emphasize emotional depth, character development, and genuine emotional moments tend to create stronger connections with audiences.
+
+This result highlights the importance of emotional storytelling in shaping memorable cinematic experiences.
 
 
 
