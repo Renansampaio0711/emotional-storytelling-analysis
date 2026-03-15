@@ -62,13 +62,31 @@ The analysis includes:
 
 ---
 ## Exploratory analysis
-![Storytelling vs Attachment](figures/Distribution by gende.png)
+![Storytelling vs Attachment](Figures/Distribution-gender.png)
+As we can see, the majority of those interviewed are women.
+Furthermore, we can see that the average of Emotional Storytelling Score is greater than the average of Audience Attachment Score.
+![Scores Means](Figures/Mean_scores_table.png)
 
 ## Main Insight
 
-We can see that 
+Looking at the graph below, we can conclude that there is a strong positive correlation between Emotional Storytelling Score and Audience Attachment Score.
+![Emotional Storytelling vs Audience Attachment](Figures/Emotional Storytelling vs Audience Attachment.png)
 
----
+This observation is confirmed when we calculate the correlation between the scores.
+![Correlation](Figures/Correlation_table.png)
 
-## Project Structure
+As we can see, there is a strong relationship (approximately 0.74) between emotional storytelling vs audience attachment.
+
+Furthermore, we can observe the questions that are most closely related to each score:
+![Correlation Storytelling](Figures/correlation_storytelling_table.png)
+![Correlation Attachment](Figures/correlation_attachmant_table.png)
+At last, we can see that for mans the correlation is even stronger:
+![Correlation Man](Figures/correlation_Male.png)
+![Correlation Man](Figures/correlation_Female.png)
+![Correlation Man](Figures/correlation_Prefer not to say.png)
+
+
+
+
+
 
