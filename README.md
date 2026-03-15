@@ -79,7 +79,7 @@ As we can see, there is a strong relationship (approximately 0.74) between emoti
 
 Furthermore, we can observe the questions that are most closely related to each score:
 ![Correlation Storytelling](Figures/correlation_storytelling_table.png)
-![Correlation Attachment](Figures/correlation_attachmant_table.png)
+![Correlation Attachment](Figures/correlation_attachment_table.png)
 At last, we can see that for mans the correlation is even stronger:
 ![Correlation Man](Figures/correlation_Male.png)
 ![Correlation Man](Figures/correlation_Female.png)
